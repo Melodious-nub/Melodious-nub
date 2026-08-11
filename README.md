@@ -88,8 +88,6 @@ The platform has been adopted by organizations and suppliers associated with int
 
 **Focus:** Enterprise Software · Multilingual Systems · Angular · API Integration
 
-🔗 **[Project]()**
-
 ---
 
 ## Vote-BNP
@@ -102,7 +100,7 @@ A web platform developed for digital engagement and political campaign activitie
 
 ---
 
-## 🏆 Olympiad App
+## Olympiad App
 
 A registration and management platform designed to streamline the Olympiad workflow, from participant registration to result management and publication.
 
@@ -117,8 +115,6 @@ Developed as a **charitable initiative**.
 A human resource management solution designed to support employee information, attendance, payroll, and reporting workflows.
 
 **Focus:** Business Software · HR Management · Reporting
-
-🔗 **[Project]()**
 
 ---
 
