@@ -10,8 +10,8 @@ practical solutions, and great user experiences.**
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Melodious--nub-181717?style=for-the-badge\&logo=github)](https://github.com/Melodious-nub)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)]()
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/shawon-taluckder)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:shawon.taluckder2@gmail.com)
 
 </div>
 
@@ -184,7 +184,7 @@ I'm always interested in **interesting ideas, technical discussions, collaborati
 
 📱 **+880 1772-219732**
 
-💼 **[LinkedIn Profile]()**
+💼 **[LinkedIn Profile](https://www.linkedin.com/in/shawon-taluckder)**
 
 🐙 **[GitHub Profile](https://github.com/Melodious-nub)**
 
