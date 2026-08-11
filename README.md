@@ -174,18 +174,6 @@ it's about making them **maintainable, reliable, performant, and useful**.
 
 ---
 
-# 📊 GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Melodious-nub\&show_icons=true\&hide_border=true\&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Melodious-nub\&layout=compact\&hide_border=true)
-
-</div>
-
----
-
 # 🤝 Let's Connect
 
 I'm always interested in **interesting ideas, technical discussions, collaborations, and opportunities to build useful software.**
