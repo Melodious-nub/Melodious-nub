@@ -60,7 +60,7 @@ Modern AI tools are part of my development workflow for **research, problem solv
 
 # 🚀 Selected Projects
 
-## 🇧🇩 BMCCI — Bangladesh Malaysia Chamber of Commerce & Industry
+## BMCCI — Bangladesh Malaysia Chamber of Commerce & Industry
 
 A modern digital platform developed for the **Bangladesh Malaysia Chamber of Commerce & Industry**, focused on delivering a contemporary and engaging web experience.
 
@@ -71,7 +71,7 @@ A modern digital platform developed for the **Bangladesh Malaysia Chamber of Com
 
 ---
 
-## 🏢 GDAMS — Green Delta Asset Management System
+## GDAMS — Green Delta Asset Management System
 
 An enterprise asset management platform developed for **Green Delta Insurance PLC**, supporting asset tracking and operational management workflows.
 
@@ -81,7 +81,7 @@ An enterprise asset management platform developed for **Green Delta Insurance PL
 
 ---
 
-## 💬 Com-Box — Grievance Management Platform
+## Com-Box — Grievance Management Platform
 
 A multilingual grievance and feedback management platform designed for RMG organizations, supporting anonymous feedback across **30+ languages**.
 
@@ -91,7 +91,7 @@ The platform has been adopted by organizations and suppliers associated with int
 
 ---
 
-## 🗳️ Vote-BNP
+## Vote-BNP
 
 A web platform developed for digital engagement and political campaign activities.
 
@@ -101,7 +101,7 @@ A web platform developed for digital engagement and political campaign activitie
 
 ---
 
-## 🏆 Olympiad App
+## Olympiad App
 
 A registration and management platform designed to streamline the Olympiad workflow, from participant registration to result management and publication.
 
@@ -111,7 +111,7 @@ Developed as a **charitable initiative**.
 
 ---
 
-## 👥 HRM — Human Resource Management System
+## HRM — Human Resource Management System
 
 A human resource management solution designed to support employee information, attendance, payroll, and reporting workflows.
 
