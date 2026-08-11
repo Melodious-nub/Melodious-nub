@@ -11,6 +11,7 @@ practical solutions, and great user experiences.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Melodious--nub-181717?style=for-the-badge\&logo=github)](https://github.com/Melodious-nub)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/shawon-taluckder)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge\&logo=fiverr\&logoColor=white)](https://www.fiverr.com/talukder_shawon/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:shawon.taluckder2@gmail.com)
 
 </div>
@@ -36,7 +37,7 @@ I enjoy taking ideas from **concept → architecture → implementation → prod
 | **Mobile**      | Kotlin · Android · Jetpack Compose · iOS · Capacitor               |
 | **Database**    | MySQL · MongoDB · PostgreSQL                                       |
 | **Engineering** | Architecture · API Integration · Reusable Components · Performance |
-| **Tools**       | Git · GitHub · Linux · Postman · Swagger/OpenAPI · cPanel, VPS     |
+| **Tools**       | Git · GitHub · Linux · Postman · Swagger/OpenAPI · cPanel · VPS    |
 
 ---
 
@@ -59,7 +60,7 @@ Modern AI tools are part of my development workflow for **research, problem solv
 
 # 🚀 Selected Projects
 
-## BMCCI — Bangladesh Malaysia Chamber of Commerce & Industry
+## 🇧🇩 BMCCI — Bangladesh Malaysia Chamber of Commerce & Industry
 
 A modern digital platform developed for the **Bangladesh Malaysia Chamber of Commerce & Industry**, focused on delivering a contemporary and engaging web experience.
 
@@ -70,7 +71,7 @@ A modern digital platform developed for the **Bangladesh Malaysia Chamber of Com
 
 ---
 
-## GDAMS — Green Delta Asset Management System
+## 🏢 GDAMS — Green Delta Asset Management System
 
 An enterprise asset management platform developed for **Green Delta Insurance PLC**, supporting asset tracking and operational management workflows.
 
@@ -80,7 +81,7 @@ An enterprise asset management platform developed for **Green Delta Insurance PL
 
 ---
 
-## Com-Box — Grievance Management Platform
+## 💬 Com-Box — Grievance Management Platform
 
 A multilingual grievance and feedback management platform designed for RMG organizations, supporting anonymous feedback across **30+ languages**.
 
@@ -90,7 +91,7 @@ The platform has been adopted by organizations and suppliers associated with int
 
 ---
 
-## Vote-BNP
+## 🗳️ Vote-BNP
 
 A web platform developed for digital engagement and political campaign activities.
 
@@ -100,7 +101,7 @@ A web platform developed for digital engagement and political campaign activitie
 
 ---
 
-## Olympiad App
+## 🏆 Olympiad App
 
 A registration and management platform designed to streamline the Olympiad workflow, from participant registration to result management and publication.
 
@@ -110,7 +111,7 @@ Developed as a **charitable initiative**.
 
 ---
 
-## HRM — Human Resource Management System
+## 👥 HRM — Human Resource Management System
 
 A human resource management solution designed to support employee information, attendance, payroll, and reporting workflows.
 
@@ -170,7 +171,7 @@ it's about making them **maintainable, reliable, performant, and useful**.
 
 # 🤝 Let's Connect
 
-I'm always interested in **interesting ideas, technical discussions, collaborations, and opportunities to build useful software.**
+I'm always interested in **interesting ideas, technical discussions, collaborations, freelance opportunities, and opportunities to build useful software.**
 
 <div align="center">
 
@@ -179,6 +180,8 @@ I'm always interested in **interesting ideas, technical discussions, collaborati
 📱 **+880 1772-219732**
 
 💼 **[LinkedIn Profile](https://www.linkedin.com/in/shawon-taluckder)**
+
+🟢 **[Fiverr Profile](https://www.fiverr.com/talukder_shawon/)**
 
 🐙 **[GitHub Profile](https://github.com/Melodious-nub)**
 
