@@ -59,28 +59,28 @@ Modern AI tools are part of my development workflow for **research, problem solv
 
 # 🚀 Selected Projects
 
-## 🇧🇩 BMCCI — Bangladesh Malaysia Chamber of Commerce & Industry
+## BMCCI — Bangladesh Malaysia Chamber of Commerce & Industry
 
 A modern digital platform developed for the **Bangladesh Malaysia Chamber of Commerce & Industry**, focused on delivering a contemporary and engaging web experience.
 
 **Focus:** Modern Web · Responsive Design · User Experience · Performance
 
 🔗 **[Live Website](https://bmcci-kappa.vercel.app/)**
-🔗 **[Source Code]()**
+🔗 **[Source Code](https://github.com/Melodious-nub/bmcci)**
 
 ---
 
-## 🏢 GDAMS — Green Delta Asset Management System
+## GDAMS — Green Delta Asset Management System
 
 An enterprise asset management platform developed for **Green Delta Insurance PLC**, supporting asset tracking and operational management workflows.
 
 **Focus:** Enterprise Software · Angular · API Integration · Business Applications
 
-🔗 **[Project]()**
+🔗 **[Project](https://gdams.green-delta.com/)**
 
 ---
 
-## 💬 Com-Box — Grievance Management Platform
+## Com-Box — Grievance Management Platform
 
 A multilingual grievance and feedback management platform designed for RMG organizations, supporting anonymous feedback across **30+ languages**.
 
