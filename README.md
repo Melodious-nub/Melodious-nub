@@ -92,13 +92,13 @@ The platform has been adopted by organizations and suppliers associated with int
 
 ---
 
-## 🗳️ Vote-BNP
+## Vote-BNP
 
 A web platform developed for digital engagement and political campaign activities.
 
 **Focus:** Web Application · Responsive UI · User Experience
 
-🔗 **[Live Website]()**
+🔗 **[Live Website](https://vote-bnp.com/)**
 
 ---
 
@@ -110,11 +110,9 @@ Developed as a **charitable initiative**.
 
 **Focus:** Registration · Management System · Web Application
 
-🔗 **[Project]()**
-
 ---
 
-## 👥 HRM — Human Resource Management System
+## HRM — Human Resource Management System
 
 A human resource management solution designed to support employee information, attendance, payroll, and reporting workflows.
 
