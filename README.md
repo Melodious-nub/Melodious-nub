@@ -36,7 +36,7 @@ I enjoy taking ideas from **concept → architecture → implementation → prod
 | **Mobile**      | Kotlin · Android · Jetpack Compose · iOS · Capacitor               |
 | **Database**    | MySQL · MongoDB · PostgreSQL                                       |
 | **Engineering** | Architecture · API Integration · Reusable Components · Performance |
-| **Tools**       | Git · GitHub · Linux · Postman · Swagger/OpenAPI · cPanel          |
+| **Tools**       | Git · GitHub · Linux · Postman · Swagger/OpenAPI · cPanel, VPS     |
 
 ---
 
