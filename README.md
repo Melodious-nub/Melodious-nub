@@ -121,6 +121,36 @@ A human resource management solution designed to support employee information, a
 
 # 📱 Open Source & Released Apps
 
+## 💸 FundFlow
+
+A modern, privacy-focused and offline-first **personal finance manager for Android**, designed around flexible budget cycles instead of rigid calendar months.
+
+FundFlow helps users track expenses, manage custom budget periods, analyze spending, and protect their financial data with local-first storage and optional cloud backup.
+
+### Highlights
+
+* 💰 Custom budget cycles
+* 📊 Spending analytics and insights
+* 📅 Expense and budget tracking
+* 🌓 Light, Dark, and System themes
+* 💾 Local backup and restore
+* ☁️ Optional Google Drive backup
+* ⚙️ Automatic background backups
+* 🚀 GitHub-based in-app updates
+* 🔒 Offline-first architecture
+* 🛡️ No ads or personal data collection
+* 📲 Android 8.0+ support
+
+<p>
+<a href="https://github.com/Melodious-nub/FundFlow">
+<img src="https://img.shields.io/badge/View%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/Melodious-nub/FundFlow/releases/latest">
+<img src="https://img.shields.io/badge/Download%20Latest%20Release-2EA44F?style=for-the-badge&logo=android&logoColor=white" />
+</a>
+</p>
+
+
 ## 🔒 ScreenLocker
 
 A lightweight and privacy-focused Android application that lets users **lock their device screen with a single tap**.
