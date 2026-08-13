@@ -67,7 +67,6 @@ A modern digital platform developed for the **Bangladesh Malaysia Chamber of Com
 **Focus:** Modern Web · Responsive Design · User Experience · Performance
 
 🔗 **[Live Website](https://bmcci-kappa.vercel.app/)**
-🔗 **[Source Code](https://github.com/Melodious-nub/bmcci)**
 
 ---
 
