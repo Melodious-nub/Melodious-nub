@@ -138,6 +138,7 @@ FundFlow helps users track expenses, manage custom budget periods, analyze spend
 * 🚀 GitHub-based in-app updates
 * 🔒 Offline-first architecture
 * 🛡️ No ads or personal data collection
+* 🔄 Smart update system for easier in-app updates from GitHub Releases.
 * 📲 Android 8.0+ support
 
 <p>
