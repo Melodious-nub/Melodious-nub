@@ -118,7 +118,34 @@ A human resource management solution designed to support employee information, a
 
 ---
 
-# 📱 Open Source & Released Apps
+# 🛠️ Open Source & Released Apps
+
+## 🔍 JsonLens
+
+A high-performance, developer-first, and 100% privacy-focused **in-browser JSON engineering workspace** built with modern Angular & TypeScript.
+
+JsonLens allows developers to format, repair, inspect, generate types, and diff JSON payloads with zero latency, running entirely inside local browser memory without any server payload uploads.
+
+### Highlights
+
+* ⚡ Sub-millisecond formatting and minification via Monaco Editor
+* 🪄 1-click syntax auto-repair for broken or malformed JSON
+* 🌳 Interactive AST tree visualizer with instant JSONPath extraction
+* 🧬 12-target type generator (TypeScript, Zod, Go, Python, Rust, JSON Schema)
+* 🔍 Side-by-side visual AST diff comparison with instant input swapping
+* 🛡️ 100% client-side privacy — zero data ever leaves the browser
+* 📤 Zero-server share via compressed URL hash fragments (`#d=...`) and QR codes
+* 📄 Multi-format export to `.json`, `.csv`, and formatted `.pdf`
+* 🧪 185 automated tests passing with 100% strict TypeScript typing
+
+<p>
+<a href="https://github.com/Melodious-nub/jsonlens">
+<img src="https://img.shields.io/badge/View%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://jsonlens.pages.dev">
+<img src="https://img.shields.io/badge/Launch%20Web%20App-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+</p>
 
 ## 💸 FundFlow
 
@@ -183,42 +210,53 @@ Built to solve a simple real-world problem while keeping the application minimal
 ```text
 Understand the Problem
         ↓
-Design the Solution
+Design the Solution & Architecture
         ↓
-Build with Clean Architecture
+Build with Clean Code & Signals
         ↓
-Test & Refine
+Automated Testing & Edge-Case Audit
         ↓
 Ship to Production
         ↓
-Keep Improving
+Measure & Continuously Improve
 ```
 
-I believe good software is not just about making things work —
-it's about making them **maintainable, reliable, performant, and useful**.
+> *"Good software isn't just about making things work — it's about making them **maintainable, reliable, performant, and delightful to use**."*
+
+### Core Engineering Principles
+- 🏛️ **Clean Architecture & Modularity:** Decoupled components, single-responsibility services, and predictable state over fragile shortcuts.
+- ⚡ **Performance & UX First:** Sub-millisecond feedback loops, smooth 60/120 FPS rendering, and accessible, responsive design.
+- 🧪 **Rigorous Verification:** High automated test coverage, strict TypeScript typing, and deep edge-case validation before release.
+- 🛡️ **Privacy by Design:** Local-first computing, zero unnecessary telemetry, and complete user data sovereignty.
 
 ---
 
 # 🤝 Let's Connect
 
-I'm always interested in **interesting ideas, technical discussions, collaborations, freelance opportunities, and opportunities to build useful software.**
+I'm always open to **technical discussions, open-source collaborations, freelance projects, and opportunities to build impactful software.**
+
+Whether you have an idea to discuss, need an Angular/Full-Stack specialist, or want to collaborate on developer tooling — feel free to reach out!
 
 <div align="center">
 
-📧 **[shawon.taluckder2@gmail.com](mailto:shawon.taluckder2@gmail.com)**
+| Channel | Contact / Link | Action |
+| :--- | :--- | :--- |
+| 📧 **Email** | `shawon.taluckder2@gmail.com` | [Send Email](mailto:shawon.taluckder2@gmail.com) |
+| 💼 **LinkedIn** | `in/shawon-taluckder` | [Connect](https://www.linkedin.com/in/shawon-taluckder) |
+| 🐙 **GitHub** | `@Melodious-nub` | [Follow](https://github.com/Melodious-nub) |
+| 🟢 **Fiverr** | `@talukder_shawon` | [Hire Me](https://www.fiverr.com/talukder_shawon/) |
+| 📱 **Phone / WhatsApp** | `+880 1772-219732` | [Message](https://wa.me/8801772219732) |
 
-📱 **+880 1772-219732**
+<br/>
 
-💼 **[LinkedIn Profile](https://www.linkedin.com/in/shawon-taluckder)**
-
-🟢 **[Fiverr Profile](https://www.fiverr.com/talukder_shawon/)**
-
-🐙 **[GitHub Profile](https://github.com/Melodious-nub)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shawon-taluckder)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/talukder_shawon/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shawon.taluckder2@gmail.com)
 
 <br/>
 
 ### ⚡ Build · Ship · Learn · Repeat
 
-<sub>Turning ideas into software, one project at a time.</sub>
+<sub>Turning ideas into production software, one project at a time.</sub>
 
 </div>
