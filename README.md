@@ -20,7 +20,7 @@ practical solutions, and great user experiences.**
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Software Engineer with 5+ years of professional experience**, specializing in modern web application development and enterprise software.
+I'm a **Full-Stack Software Engineer with 6+ years of professional experience**, specializing in modern web application development and enterprise software.
 
 My strongest area is **Angular & TypeScript**, complemented by hands-on experience in backend development, databases, mobile applications, API integration, and production deployment.
 
