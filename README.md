@@ -136,7 +136,7 @@ JsonLens allows developers to format, repair, inspect, generate types, and diff 
 * 🛡️ 100% client-side privacy — zero data ever leaves the browser
 * 📤 Zero-server share via compressed URL hash fragments (`#d=...`) and QR codes
 * 📄 Multi-format export to `.json`, `.csv`, and formatted `.pdf`
-* 🧪 185 automated tests passing with 100% strict TypeScript typing
+* 🧪 200+ automated tests passing with 100% strict TypeScript typing
 
 <p>
 <a href="https://github.com/Melodious-nub/jsonlens">
